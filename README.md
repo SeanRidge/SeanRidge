@@ -8,6 +8,7 @@ Mathematics and Physics student from the University of Durham, interested in Com
 |---|---|
 | [Rocket Propulsion Analysis](https://github.com/SeanRidge/Rocket-Propulsion-Analysis) | Developed a propulsion tool for users to size a rocket engine and its fuel injectors for a target thrust.  |
 | [Computational Physics](https://github.com/SeanRidge/Computational-Physics) | A variety of computational tools and numerical methods I have been learning for use in computational Physics contexts. |
+| [Convection in Fluids: BSc Mathematics Project] | Uploading soon. Using MATLAB to model convection in fluids using computational methods. |
 
 ## Skills
 Python · NumPy · Pandas · Matplotlib · SciPy · Tkinter · Git
