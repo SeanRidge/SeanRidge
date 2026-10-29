@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sean Ridge
 
-<!--
-**SeanRidge/SeanRidge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics and Physics student from the University of Durham, interested in Computational Mathematics and Physics and using programming in Rocketry and Propulsion.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Repository | Description |
+|---|---|
+| [Rocket Propulsion Analysis](https://github.com/SeanRidge/Rocket-Propulsion-Analysis) | Developed a propulsion tool for users to size a rocket engine and its fuel injectors for a target thrust.  |
+| [Computational Physics](https://github.com/SeanRidge/Computational-Physics) | A variety of computational tools and numerical methods I have been learning for use in computational Physics contexts. |
+
+## Skills
+Python · NumPy · Pandas · Matplotlib · SciPy · Tkinter · Git
