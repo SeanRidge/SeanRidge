@@ -11,4 +11,4 @@ Mathematics and Physics student from the University of Durham, interested in Com
 | [Convection in Fluids: BSc Mathematics Project] | Uploading soon. Using MATLAB to model convection in fluids using computational methods. |
 
 ## Skills
-Python · NumPy · Pandas · Matplotlib · SciPy · Tkinter · Git
+Python · NumPy · Pandas · Matplotlib · SciPy · Tkinter · Git · MATALB · bvp4c
