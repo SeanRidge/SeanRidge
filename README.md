@@ -1,6 +1,6 @@
 # Sean Ridge
 
-Mathematics and Physics student from the University of Durham, interested in Computational Mathematics and Physics and using programming in Rocketry and Propulsion.
+Mathematics and Physics student from Durham University, interested in Computational Mathematics and Physics and using programming in Rocketry, Propulsion and Aerodynamics.
 
 ## Projects
 
